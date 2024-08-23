@@ -12,6 +12,7 @@ Hi!. Recently, I decided to make a career transition, which led me to dive into 
 ### 🎓 What am I learning right now?
 
 I'm diving deep into **Software Architecture** and **Clean Code** principles. I'm exploring the best practices to write code that is not only functional but also clean, maintainable, and scalable. This journey is shaping me into a more thoughtful and deliberate developer.
+NestJS TypeScript NodeJS Next JS React Docker MySQL 
 
 ### 🌱 What is my current side quest?
 
