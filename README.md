@@ -15,6 +15,7 @@ I'm diving deep into **Software Architecture** and **Clean Code** principles. I'
 
 ![image](https://github.com/user-attachments/assets/697778f6-07e5-445a-9fc5-7adc5116c6bd)
 ![image](https://github.com/user-attachments/assets/85cca835-6743-4ff4-a01a-477423bd274a)
+![image](https://github.com/user-attachments/assets/d7df7f72-28a4-46e2-a90b-fdaa5c4de3b0)
 ![image](https://github.com/user-attachments/assets/1b3ac024-b160-4eee-af07-32733feac821)
 
 ### 🌱 What is my current side quest?
