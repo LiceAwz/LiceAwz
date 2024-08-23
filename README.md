@@ -13,7 +13,9 @@ Hi!. Recently, I decided to make a career transition, which led me to dive into 
 
 I'm diving deep into **Software Architecture** and **Clean Code** principles. I'm exploring the best practices to write code that is not only functional but also clean, maintainable, and scalable. This journey is shaping me into a more thoughtful and deliberate developer.
 
-NestJS TypeScript NodeJS Next JS React Docker MySQL 
+![image](https://github.com/user-attachments/assets/697778f6-07e5-445a-9fc5-7adc5116c6bd)
+![image](https://github.com/user-attachments/assets/85cca835-6743-4ff4-a01a-477423bd274a)
+![image](https://github.com/user-attachments/assets/1b3ac024-b160-4eee-af07-32733feac821)
 
 ### 🌱 What is my current side quest?
 
