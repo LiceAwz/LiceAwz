@@ -1,6 +1,6 @@
 # Hi there, I'm Marilice Awazu 👋
 
-“[![LinkedIn URL](https://img.shields.io/badge/follow-me-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilice-awazu-0a1608214/))”
+“[![LinkedIn URL](https://img.shields.io/badge/follow-me-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilice-awazu-0a1608214/)”
 
 ### ✋ About me
 Hi! Recently, I decided to make a career transition, which led me to dive into studying Product Management, the area I currently work in at Unilever. As I progressed, I realized the importance of understanding the technology behind the products I manage, which motivated me to start learning programming. That’s when I discovered a true passion for software engineering, particularly in backend. Since then, I’ve been committed to deepening my knowledge in programming, with the goal of building robust and scalable solutions. I love tackling complex challenges and am always on the lookout for new opportunities to learn and grow in the tech industry.
