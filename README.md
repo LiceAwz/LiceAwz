@@ -13,10 +13,18 @@ Hi! Recently, I decided to make a career transition, which led me to dive into s
 
 I'm diving deep into **Software Architecture** and **Clean Code** principles. I'm exploring the best practices to write code that is not only functional but also clean, maintainable, and scalable. This journey is shaping me into a more thoughtful and deliberate developer.
 
-![image](https://github.com/user-attachments/assets/697778f6-07e5-445a-9fc5-7adc5116c6bd)
-![image](https://github.com/user-attachments/assets/85cca835-6743-4ff4-a01a-477423bd274a)
-![image](https://github.com/user-attachments/assets/d7df7f72-28a4-46e2-a90b-fdaa5c4de3b0)
-![image](https://github.com/user-attachments/assets/1b3ac024-b160-4eee-af07-32733feac821)
+![image](https://github.com/user-attachments/assets/3fcdaa68-77df-4faa-ae3f-781ee9fabd41)
+![image](https://github.com/user-attachments/assets/1082a9e8-3ce0-499e-b0c0-0e160ef9fd70)
+![image](https://github.com/user-attachments/assets/4a5e0341-2b59-4a08-b422-18f0891e38bd)
+![image](https://github.com/user-attachments/assets/fb2e7202-211d-4b72-9a4e-b56fa66a76f8)
+![image](https://github.com/user-attachments/assets/d7c043cb-bfaa-46cc-bf8e-774e52ca3c23)
+![image](https://github.com/user-attachments/assets/d5e0dea9-8cdd-44f6-b5c5-5bc72c18f5f2)
+![image](https://github.com/user-attachments/assets/da80d0a3-52c8-439f-8bea-b9422a5ec557)
+![image](https://github.com/user-attachments/assets/22aaaa54-329c-4753-93c6-3fd66652cb5b)
+![image](https://github.com/user-attachments/assets/2a0ee1af-a498-4142-acd4-1de5d9f658e8)
+![image](https://github.com/user-attachments/assets/00b4c3ca-5f60-449d-8903-c1d409ddd528)
+
+
 
 ### 🌱 What is my current side quest?
 
